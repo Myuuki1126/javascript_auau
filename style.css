@@ -4,12 +4,6 @@ body {
   margin: 0;
 }
 
-footer {
-  position: absolute;
-  bottom: 0;
-  text-align: center;
-  width: 100%;
-}
 
 .list {
   display: flex;
@@ -76,9 +70,6 @@ img {
     padding: 10px 0;
   }
   
-  footer {
-    text-align: center;
-  }
   
   .gallery {
     max-width: 800px;
